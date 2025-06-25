@@ -30,13 +30,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/harisdev.infy.uk/" target="_blank">
+  <a href="https://www.facebook.com/harisdev.infy.uk/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/harisdev.infy.uk" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/@harisdev.infy.uk7" target="_blank">
+  <a href="https://www.youtube.com/@harisdev.infy.uk7" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
   </a>
   <a href="https://threads.net/@harisdev.infy.uk" target="_blank">
