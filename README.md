@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-ktk" alt="haris-ktk" /></a> </p>
 
+- 🌱 I’m currently studying **Computer Science, I’m still in 11th class but building real web apps, doing cold outreach, and working to grow Islam through my skills — all from my laptop and belief. 💻✨ **
+
 - 🌱 I’m currently learning **Advanced JavaScript and More technologies, API integration, hosting/domain reselling, and how to scale digital Islamic platforms.**
 
 - 👯 I’m looking to collaborate on **Islamic web projects, full-stack apps, and creative digital tools that spread value or benefit society.**
@@ -26,7 +28,7 @@
 
 - 📄 Know about my experiences [https://harisdevs.wuaze.com](https://harisdevs.wuaze.com)
 
-- ⚡ Fun fact **I’m still in 11th class but building real web apps, doing cold outreach, and working to grow Islam through my skills — all from my laptop and belief. 💻✨**
+- ⚡ Fun fact **I started web dev before I turned 17! 💻✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
