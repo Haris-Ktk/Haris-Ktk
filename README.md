@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harisdev.infy.uk](https://harisdev.infy.uk)
 
-📝 I regularly write articles and will soon start sharing tips and project breakdowns on my GitHub, social media, and maybe on Medium or Dev.to insha’Allah!
+- 📝 I regularly write articles and will soon start sharing tips and project breakdowns on my GitHub, social media, and maybe on Medium or Dev.to insha’Allah!
 
 
 - 💬 Ask me about **Web development (Frontend + Backend), freelancing as a student, free hosting tricks, and growing online presence for a mission.**
