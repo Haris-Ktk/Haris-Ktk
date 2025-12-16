@@ -19,11 +19,11 @@
 
 - 🤝 I’m open to **collaborations** on Android projects, startups, or Islamic tech ideas that make a difference.
 
-- 👨‍💻 Check out all my projects here → [https://devharis.wuaze.com](https://devharis.wuaze.com)
+- 👨‍💻 Check out all my projects here → [https://harix-devs.vercel.app](https://harix-devs.vercel.app/)
 
 - 💬 Ask me about **Android Development, Firebase, Kotlin, Java, UI/UX, or App deployment tips.**
 
-- 📫 Reach me at **harisdev.infy.uk@gmail.com**
+- 📫 Reach me at **harisdev.business@gmail.com**
 
 - ⚡ Fun fact: I started building real Android apps while still in 11th class. Never stop dreaming 🌙✨
 
