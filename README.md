@@ -1,4 +1,4 @@
-![logo](https://github.com/Haris-Ktk/Haris-Ktk/blob/main/newgit.jpg)
+![logo](https://github.com/Haris-Ktk/Haris-Ktk/blob/main/git.jpg)
 
 <h1 align="center">Hi 👋, I'm Haris Dev</h1>
 <h3 align="center">A passionate Android Developer from Pakistan 🇵🇰</h3>
